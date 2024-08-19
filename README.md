@@ -5,7 +5,7 @@ Este repositório contém projetos de portfólio desenvolvidos por mim. Cada pro
 ## Projetos
 
 ### 5-Projeto-Awax
-Este projeto é uma landing page desenvolvida para a empresa fictícia Awax. Utiliza HTML, CSS e JavaScript para criar uma interface moderna e responsiva.
+Este projeto é uma landing page desenvolvida para a empresa fictícia Awax. Utiliza HTML, CSS para criar uma interface moderna e responsiva.
 
 - **Live Demo:** [5-Projeto-Awax](https://levyherc.github.io/1-Portfolio/5-Projeto-Awax)
 - **Tecnologias utilizadas:** HTML e CSS
@@ -17,7 +17,7 @@ Este projeto é uma página de exemplo da Starbucks, criada para demonstrar o us
 - **Tecnologias utilizadas:** HTML, CSS (Flexbox, Grid)
 
 ### 7-Projeto-B7Burger
-Este projeto é uma página para a lanchonete fictícia B7Burger, criada para praticar HTML, CSS e JavaScript. O objetivo foi desenvolver uma interface de usuário atraente e funcional.
+Este projeto é uma página para a lanchonete fictícia B7Burger, criada para praticar HTML, CSS. O objetivo foi desenvolver uma interface de usuário atraente e funcional.
 
 - **Live Demo:** [7-Projeto-B7Burger](https://levyherc.github.io/1-Portfolio/7-Projeto-B7Burger/)
 - **Tecnologias utilizadas:** HTML e CSS
